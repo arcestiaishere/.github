@@ -1,6 +1,6 @@
 # arcestiaishere
 
-**This Organization is now under the management of Skiddle ID.**
+**This Organization asset already transferred to Skiddle ID.**
 
 All assets and projects previously associated with "arcestiaishere" have been transitioned to Skiddle ID, a new digital brand owned and managed by [the same person](https://github.com/arcestia).
 
